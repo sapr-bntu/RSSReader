@@ -1,0 +1,5 @@
+RSS-Reader.
+It is very usefull programm.
+User may add RSS-link for different sites.
+And in future he will get news from chosed site.
+it is cool,isn't it?
